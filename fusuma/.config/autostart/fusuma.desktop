@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=fusuma
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[nb_NO]=Fusuma
+Name=Fusuma
+Comment[nb_NO]=Adds support for touchpad gestures.
+Comment=Adds support for touchpad gestures.
