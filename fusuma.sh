@@ -7,9 +7,9 @@ sudo gem install fusuma
 
 #Makes config folder ofr fusuma and installs config file
 mkdir -p ~/.config/fusuma
-wget https://github.com/trygve55/Trygve-s-Ubuntu-Tweaks-and-Setup/fusuma/.config/fusuma/config.yml -P ~/.config/fusuma
+wget -nc "https://raw.githubusercontent.com/trygve55/Trygve-s-Ubuntu-Tweaks-and-Setup/master/fusuma/.config/fusuma/config.yml" -P ~/.config/fusuma
 
 #Adds fusuma to autostart on login
-wget https://github.com/trygve55/Trygve-s-Ubuntu-Tweaks-and-Setup/fusuma/.config/autostart/fusuma.desktop -P ~/.config/autostart
+wget -nc "https://raw.githubusercontent.com/trygve55/Trygve-s-Ubuntu-Tweaks-and-Setup/master/fusuma/.config/autostart/fusuma.desktop" -P ~/.config/autostart
 
 
