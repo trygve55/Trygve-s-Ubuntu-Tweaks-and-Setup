@@ -3,6 +3,7 @@
 ## Initial install:
 ```
 sudo apt-get install git
+git clone https://github.com/trygve55/Trygve-s-Ubuntu-Tweaks-and-Setup
 cd Trygve-s-Ubuntu-Tweaks-and-Setup
 ```
 
